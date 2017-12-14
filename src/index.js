@@ -1,0 +1,1 @@
+require('./indicator/index.ts')
