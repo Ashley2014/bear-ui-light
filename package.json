@@ -17,14 +17,17 @@
   },
   "homepage": "https://github.com/Ashley2014/bear-ui-lite#readme",
   "devDependencies": {
+    "copy-webpack-plugin": "^4.3.0",
     "css-loader": "^0.28.7",
     "html-loader": "^0.5.1",
+    "html-webpack-plugin": "^2.30.1",
     "node-sass": "^4.7.2",
     "postcss-loader": "^2.0.9",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
     "ts-loader": "^3.2.0",
     "url-loader": "^0.6.2",
-    "webpack": "^3.10.0"
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
   }
 }
