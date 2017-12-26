@@ -33,7 +33,7 @@ module.exports = {
   plugins: [
   ],
   output: {
-    filename: `bear-ui-lite.min.js`,
+    filename: `bear-ui-lite.js`,
     path: path.resolve(__dirname, 'dist'),
     publicPath: "/",
   }
